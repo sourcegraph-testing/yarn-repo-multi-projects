@@ -1,0 +1,14 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "Project2 of multi-project repo",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  },
+  "dependencies": {
+    "chalk-animation": "^2.0.2"
+  },
+  "type": "module"
+}

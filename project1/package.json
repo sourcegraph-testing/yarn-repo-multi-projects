@@ -1,0 +1,16 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Project 1 in multi-project repo",
+  "main": "index.js",
+  "repository": "https://github.com/sourcegraph-testing/yarn-repo-multi-projects",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "gradient-string": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  },
+  "type": "module"
+}
